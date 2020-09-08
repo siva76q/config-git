@@ -1,0 +1,4 @@
+spring.application.name=test-application
+management.endpoints.web.exposure.include=*
+server.port=8086
+owner.name=dj
