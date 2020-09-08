@@ -1,4 +1,2 @@
-spring.application.name=TestApplication
-management.endpoints.web.exposure.include=*
-server.port=8086
-owner.name=dj
+owner:
+  name: dhananjaya samanta singhar
